@@ -1,6 +1,8 @@
 # pi_os_image
 Our in-house Raspbian build that advertises its own wireless access point, and has the cloud9 web-based development environment preinstalled for easy python development through a web browser.
 
+Download the image [here](https://drive.google.com/file/d/11INcH4EU1vZ6tqbRKVsq9-0XMmLCJBnF/view?usp=sharing)
+
 To use:
 - Download the file
 - Burn to a 16GB or larger SD card using dd or an app like Balena etcher
